@@ -1,4 +1,3 @@
-trojan://ypDt8RkT7J@89.187.189.88:43118?encryption=none&security=tls&sni=tpmrr.phooeyunfold.com&alpn=http%2F1.1&fp=random&type=tcp&headerType=none#@Vip_Security join us - 316
 trojan://ypDt8RkT7J@62.210.83.57:43118?security=tls&headerType=none&type=tcp&sni=ruvil.phooeyunfold.com#@Vip_Security join us - 315
 trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&headerType=none&type=tcp&sni=wuxgk.phooeyunfold.com#@Vip_Security join us - 314
 trojan://ypDt8RkT7J@51.158.217.57:43118?security=tls&headerType=none&type=tcp&sni=tojzy.phooeyunfold.com#@Vip_Security join us - 313
