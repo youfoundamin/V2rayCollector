@@ -1,5 +1,4 @@
-ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&host=bmw.com&path=%2F&security=none&type=tcp#@Vip_Security join us - 410
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:80?#@Vip_Security join us - 409
+ss://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&host=bmw.com&path=%2F&security=none&type=tcp#@Vip_Security join us - 409
 ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#@Vip_Security join us - 408
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#@Vip_Security join us - 407
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@Vip_Security join us - 406
