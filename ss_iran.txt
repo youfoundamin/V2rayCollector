@@ -269,4 +269,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4Mkh
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ@142.171.65.106:8388#@Vip_Security join us - 4
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SG56SU4xQ0xHR0VoK21EL3V6YmJ2VFFjL0FscStoa21yQzdQbzNENGs0RT0@46.38.143.236:60633#@Vip_Security join us - 3
 ss://94dcf7bb-8074-4714-9e33-bbfddf37fc5c@172.64.148.235:2087?security=tls&sni=cloudddda.officialvpn.shop&type=ws&host=cloudddda.officialvpn.shop&path=/&packetEncoding=xudp#@Vip_Security join us - 2
-ss://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#@Vip_Security join us - 1
+ss://3171ac5c-d746-4298-82e0-d46f2f5aa51f@www.shopify.com:80?encryption=auto&host=de.gfw.hidns.co&path=%2Fdanfeng&security=none&type=ws#@Vip_Security join us - 1
