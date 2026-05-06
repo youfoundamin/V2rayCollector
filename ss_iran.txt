@@ -1,7 +1,6 @@
-ss://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.233:180?encryption=auto&security=none&type=tcp#@Vip_Security join us - 287
 ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#@Vip_Security join us - 286
 ss://bc30cc65-bc08-4843-85b6-1cac2b8a9753@119.46.51.45:42553?encryption=auto&security=none&type=tcp#@Vip_Security join us - 285
-ss://b5e9480a-b7aa-40a4-f9a7-5299b5e363b4@152.67.218.38:443?encryption=auto&path=%2F&security=none&type=ws#@Vip_Security join us - 284
+ss://ae862e1d-3b8c-443a-027b-37c6c69ef43c@45.192.101.134:9527?encryption=auto&security=none&type=tcp#@Vip_Security join us - 284
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#@Vip_Security join us - 283
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#@Vip_Security join us - 282
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.180.2.141:5499#@Vip_Security join us - 281
