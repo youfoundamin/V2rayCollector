@@ -1,5 +1,4 @@
-ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@Vip_Security join us - 352
-ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@23.162.200.198:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 351
+ss://fbd2b2f1-af4a-4e5f-9556-af37edea9db5@me.echo-license.gr:14991?encryption=auto&headerType=http&host=play.google.com&path=%2F&security=none&type=tcp#@Vip_Security join us - 351
 ss://f8c8dc3d-0d37-46b0-8b34-a7232882fcfe@134.195.196.211:18000?encryption=auto&security=none&type=tcp#@Vip_Security join us - 350
 ss://f8975871-a7a0-4906-8835-a23c1258ca1e@69.84.182.49:80?encryption=auto&host=google.whatsapp.snapp.torob.basalam.zula.uplaod-music.ir.&path=%2F&security=none&type=ws#@Vip_Security join us - 349
 ss://f0841ef6-a703-4248-9c69-efed21a38e65@31.77.149.99:110?encryption=auto&security=none&type=tcp#@Vip_Security join us - 348
